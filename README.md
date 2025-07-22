@@ -8,3 +8,5 @@ It can describe:
 - Links/connections between different windows
 
 And it's not just read-only. An AI screen control app could also update the SCDF (either locally or on a hosted database) if it encounters a new UI with primative information.
+
+**Draft 1 is available**
